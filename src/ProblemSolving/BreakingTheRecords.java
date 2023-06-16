@@ -2,11 +2,11 @@ package ProblemSolving;
 
 public class BreakingTheRecords {
     public static int[] breakingRecords(int[] score){
-        int minimum = score[0];
-        int maximum = score[0];
         int minimumCount = 0;
         int maximumCount = 0;
         for (int i = 0; i < score.length; i ++){
+            int minimum = score[0];
+            int maximum = score[0];
             if (minimum == 0 & maximum == 0){
                 minimum = score[i];
                 maximum = score[i];
