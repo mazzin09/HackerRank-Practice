@@ -2,9 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ba08a2b2-e9b6-4ae4-98d3-7a9f0a84cace" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ProblemSolving/MigratoryBirds.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ProblemSolving/MigratoryBirds.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ProblemSolving/SubarrayDivision.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ProblemSolving/SubarrayDivision.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
